@@ -6,18 +6,18 @@ An application built using React to show populational data from a range of neigh
 
 Clone this repository. You'll need `node` and `npm` to proceed with the setup.
 
-#####Installation:
+##### Installation:
 `npm install`
 
-#####Run Test Suite:
+##### Run Test Suite:
 `npm run test`
 
-#####Start Application (Development Mode):
+##### Start Application (Development Mode):
 `npm start`
 
 Visit the application in `localhost:8080`
 
-#####Build Application:
+##### Build Application:
 `npm run build`
 
 ## Aditional information
