@@ -1,0 +1,23 @@
+.map-view {
+  margin-bottom: 20px;
+}
+
+.map-view__title {
+  font-family: 'Open Sans', 'sans serif';
+  font-size: 20px;
+  font-weight: 700;
+  color: #072D2E;
+}
+
+.map-view__loading {
+  margin: 90px auto;
+  font-size: 16px;
+  color: #3A8587;
+  text-align: center;
+}
+
+.leaflet-container {
+  width: 90%;
+  height: 400px;
+  margin: 20px auto;
+}

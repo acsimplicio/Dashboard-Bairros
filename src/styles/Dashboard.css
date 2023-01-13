@@ -1,0 +1,6 @@
+.dashboard {
+  --header-width: 210px;
+  margin-left: calc(var(--header-width) + 75px);
+  padding: 35px 0;
+  width: 100%;
+}

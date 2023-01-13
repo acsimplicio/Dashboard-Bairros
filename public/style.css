@@ -1,0 +1,19 @@
+html {
+  --full-height: 100%;
+  background-color: #F8FBF2;
+  height: var(--full-height);
+}
+
+body {
+  margin: 0px;
+  font-family: 'Roboto', 'sans-serif';
+  height: var(--full-height);
+}
+
+#root {
+  height: var(--full-height);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}

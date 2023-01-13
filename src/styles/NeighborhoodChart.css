@@ -1,0 +1,21 @@
+.neighborhood-view {
+  width: 100%;
+}
+
+.neighborhood-view__title {
+  font-family: 'Open Sans', 'sans serif';
+  font-size: 20px;
+  font-weight: 700;
+  color: #072D2E;
+}
+
+.neighborhood-view__chart {
+  margin: 20px auto;
+}
+
+.neighborhood-view__warning {
+  margin: 90px auto;
+  font-size: 16px;
+  color: #3A8587;
+  text-align: center;
+}

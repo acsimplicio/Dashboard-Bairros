@@ -1,0 +1,17 @@
+.header {
+  --header-width: 210px;
+  background-color: #164E50;
+  height: 100%;
+  width: var(--header-width);
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding: 35px 0;
+}
+
+.header__logo {
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+}
